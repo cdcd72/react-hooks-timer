@@ -1,3 +1,5 @@
+> :fire: Recommend you use node.js v16.13 run this example!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
